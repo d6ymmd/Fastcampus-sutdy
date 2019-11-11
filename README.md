@@ -1,2 +1,2 @@
-# Fastcampus-sutdy
+# Fastcampus-study
 problem solving
