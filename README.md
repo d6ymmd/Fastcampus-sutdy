@@ -1,2 +1,0 @@
-# Fastcampus-study
-problem solving
